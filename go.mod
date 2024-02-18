@@ -10,7 +10,7 @@ require (
 	github.com/prometheus/client_golang v1.14.0
 	github.com/spf13/cobra v1.6.0
 	github.com/spf13/viper v0.0.0-20170417080815-0967fc9aceab
-	golang.org/x/lint v0.0.0-20200302205851-738671d3881b
+	golang.org/x/lint 6edffad5e616
 	gopkg.in/DATA-DOG/go-sqlmock.v1 v1.2.0
 )
 
