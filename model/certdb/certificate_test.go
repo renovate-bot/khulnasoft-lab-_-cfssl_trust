@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/cloudflare/cfssl_trust/release"
+	"github.com/khulnasoft-lab/cfssl_trust/release"
 	_ "github.com/mattes/migrate/driver/sqlite3"
 )
 

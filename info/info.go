@@ -9,8 +9,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/cloudflare/cfssl_trust/common"
-	"github.com/cloudflare/cfssl_trust/model/certdb"
+	"github.com/khulnasoft-lab/cfssl_trust/common"
+	"github.com/khulnasoft-lab/cfssl_trust/model/certdb"
 )
 
 func writeBasicInformation(w io.Writer, cert *x509.Certificate) error {

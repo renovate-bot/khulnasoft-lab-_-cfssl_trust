@@ -6,9 +6,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/cloudflare/cfssl/log"
-	"github.com/cloudflare/cfssl_trust/config"
-	"github.com/cloudflare/cfssl_trust/release"
+	"github.com/khulnasoft-lab/cfssl/log"
+	"github.com/khulnasoft-lab/cfssl_trust/config"
+	"github.com/khulnasoft-lab/cfssl_trust/release"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

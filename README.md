@@ -1,7 +1,7 @@
 ## CFSSL TRUST
 
 This is the trust stores Cloudflare uses for
-[CFSSL](https://github.com/cloudflare/cfssl). It also includes the
+[CFSSL](https://github.com/khulnasoft-lab/cfssl). It also includes the
 sources of the trust chain that can be built using the `mkbundle`
 utility from CFSSL.
 
@@ -54,8 +54,8 @@ systems. Currently, we have trust stores from
 
 ```
 $ go get -u github.com/kisom/goutils/cmd/certdump
-$ go get -u github.com/cloudflare/cfssl/cmd/...
-$ go get -u github.com/cloudflare/cfssl_trust/...
+$ go get -u github.com/khulnasoft-lab/cfssl/cmd/...
+$ go get -u github.com/khulnasoft-lab/cfssl_trust/...
 ```
 
 #### Build

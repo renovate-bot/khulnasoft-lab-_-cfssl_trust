@@ -22,7 +22,7 @@ var (
 	window         = 30 * 24 * time.Hour
 	runBookURL     = ""
 	sentryDSN      = ""
-	trustBaseURL   = "https://raw.githubusercontent.com/cloudflare/cfssl_trust/master/"
+	trustBaseURL   = "https://raw.githubusercontent.com/khulnasoft-lab/cfssl_trust/master/"
 )
 
 var indexHTML string

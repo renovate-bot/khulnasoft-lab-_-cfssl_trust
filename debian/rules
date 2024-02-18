@@ -1,7 +1,7 @@
 #!/usr/bin/make -f
 
 export DH_OPTIONS
-export DH_GOPKG := github.com/cloudflare/cfssl_trust/cmd/cfssl-trust
+export DH_GOPKG := github.com/khulnasoft-lab/cfssl_trust/cmd/cfssl-trust
 
 %:
 	# go get github.com/Masterminds/glide

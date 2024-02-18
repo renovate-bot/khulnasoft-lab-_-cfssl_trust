@@ -5,7 +5,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/cloudflare/cfssl_trust/config"
+	"github.com/khulnasoft-lab/cfssl_trust/config"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 

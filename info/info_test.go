@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/cloudflare/cfssl_trust/model/certdb"
+	"github.com/khulnasoft-lab/cfssl_trust/model/certdb"
 
 	sqlmock "gopkg.in/DATA-DOG/go-sqlmock.v1"
 )

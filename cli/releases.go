@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/cloudflare/cfssl_trust/model/certdb"
+	"github.com/khulnasoft-lab/cfssl_trust/model/certdb"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

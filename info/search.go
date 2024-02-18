@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/cloudflare/cfssl_trust/model/certdb"
+	"github.com/khulnasoft-lab/cfssl_trust/model/certdb"
 )
 
 // A CertificateFilter is a predicate that returns true if the

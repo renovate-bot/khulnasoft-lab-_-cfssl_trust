@@ -7,8 +7,8 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/cloudflare/cfssl/helpers"
-	"github.com/cloudflare/cfssl_trust/model/certdb"
+	"github.com/khulnasoft-lab/cfssl/helpers"
+	"github.com/khulnasoft-lab/cfssl_trust/model/certdb"
 	_ "github.com/mattn/go-sqlite3" // load sql driver
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"

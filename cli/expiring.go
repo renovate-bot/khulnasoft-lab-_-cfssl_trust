@@ -7,8 +7,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/cloudflare/cfssl_trust/common"
-	"github.com/cloudflare/cfssl_trust/model/certdb"
+	"github.com/khulnasoft-lab/cfssl_trust/common"
+	"github.com/khulnasoft-lab/cfssl_trust/model/certdb"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

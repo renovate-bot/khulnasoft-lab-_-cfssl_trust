@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/cloudflare/cfssl_trust/common"
+	"github.com/khulnasoft-lab/cfssl_trust/common"
 	"github.com/prometheus/client_golang/prometheus"
 )
 
